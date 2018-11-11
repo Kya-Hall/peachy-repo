@@ -1,1 +1,1 @@
-# peachy.repository
+# peachy-repo
